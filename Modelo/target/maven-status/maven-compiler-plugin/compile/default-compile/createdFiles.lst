@@ -1,0 +1,6 @@
+com\mycompany\dto\UserDTO.class
+com\mycompany\dto\UserCredentialsDTO.class
+com\mycompany\modelo\User_.class
+com\mycompany\security\modelo\UserPrincipal.class
+com\mycompany\modelo\User.class
+com\mycompany\dto\ResponseDTO.class

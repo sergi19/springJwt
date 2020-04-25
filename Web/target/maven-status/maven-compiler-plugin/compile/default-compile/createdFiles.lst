@@ -1,0 +1,7 @@
+com\mycompany\security\WebSecurityConfig.class
+com\mycompany\controller\AuthController.class
+com\mycompany\ServletInitializer.class
+com\mycompany\WebDemoAplication.class
+com\mycompany\controller\UserController.class
+com\mycompany\security\TokenUtil.class
+com\mycompany\security\AuthFilter.class

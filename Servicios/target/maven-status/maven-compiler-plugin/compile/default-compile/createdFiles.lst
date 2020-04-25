@@ -1,0 +1,3 @@
+com\mycompany\impl\UserServiceImpl.class
+com\mycompany\impl\UserSecurityService.class
+com\mycompany\servicios\UserService.class
